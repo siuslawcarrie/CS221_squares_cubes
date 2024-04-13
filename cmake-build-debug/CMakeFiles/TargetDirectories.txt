@@ -1,0 +1,3 @@
+C:/Users/siusl/CLionProjects/CS_221_Spring_squares_cubes/cmake-build-debug/CMakeFiles/CS_221_Spring_squares_cubes.dir
+C:/Users/siusl/CLionProjects/CS_221_Spring_squares_cubes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/siusl/CLionProjects/CS_221_Spring_squares_cubes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
